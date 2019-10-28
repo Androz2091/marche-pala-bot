@@ -1,0 +1,22 @@
+{
+  "name": "marche-pala-bot",
+  "version": "1.0.0",
+  "description": "Le bot pour le serveur Marché Paladium | Paladium | V6",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/marche-pala-bot.git"
+  },
+  "author": "Androz2091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/marche-pala-bot/issues"
+  },
+  "homepage": "https://github.com/Androz2091/marche-pala-bot#readme",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
